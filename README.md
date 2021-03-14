@@ -1,16 +1,7 @@
-# lojinha_virtual
+# Loja Virtual
 
-A new Flutter application.
+O app "Loja Virtual" foi desenvolvido com o intuito de concatenar diversos conteúdos aprendidos durantes a realização de cursos de Flutter.
 
-## Getting Started
+O propósito deste app é trabalhar integração e consumo de APIs, assim como de packages.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+O projeto ainda está em estágio de desenvolvimento gradual e o objetivo é finalizá-lo e publicá-lo na PlayStore com um caso real, ou seja, como alguma lojinha que deseje, voluntariamente, contribuir para uso e testes.
